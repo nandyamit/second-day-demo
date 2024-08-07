@@ -1,0 +1,20 @@
+ 
+  .box {
+   line-height: 50px;
+    }
+
+  .lightyellow {
+    color: black;
+    background-color: #fffacd;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+
+  #fact-1 {
+    font-weight:bold;
+  }
+
+  #fact-2 {
+    font-size: 24px;
+  }
+
+  

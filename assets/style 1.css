@@ -1,0 +1,27 @@
+ 
+  .box {
+    width: 200px;
+    height: 300px;
+  }
+
+  .box-purple {
+    color: #ffff00;
+    background-color: #800080;
+  }
+
+  .box-blue {
+    color: #ffa500;
+    background-color: #0000ff;
+  }
+
+  .black {
+    background-color: #000000;
+  }
+
+  #white {
+    color: #ffffff;
+  }
+
+  #yellow {
+    color: #ffff00;
+  }
